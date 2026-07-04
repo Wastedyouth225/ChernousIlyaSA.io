@@ -83,7 +83,7 @@ header {
     background: radial-gradient(circle at center, #1e293b 0%, #0f172a 100%);
 }
 
-.hero-content max-width {
+.hero-content {
     max-width: 800px;
 }
 
